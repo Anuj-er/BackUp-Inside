@@ -1,0 +1,18 @@
+{
+    "timestamp": "20250509_2010",
+    "backup_name": "Backup_20250509_2010_backup_demo",
+    "folders": {
+        "backup_demo": "/Users/anujsiwach/Desktop/backup_demo",
+        "system_config": "/etc"
+    },
+    "options": {
+        "backup_system": true,
+        "encrypt": true,
+        "compress": true,
+        "incremental": false
+    },
+    "total_files": 2,
+    "changed_files": 2,
+    "total_size": "11.1 KB",
+    "type": "Full"
+}
