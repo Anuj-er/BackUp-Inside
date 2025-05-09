@@ -7,12 +7,12 @@
     },
     "options": {
         "backup_system": true,
-        "encrypt": true,
+        "encrypt": false,
         "compress": false,
         "incremental": false
     },
-    "total_files": 14,
-    "changed_files": 8,
-    "total_size": "25.4 KB",
+    "total_files": 21,
+    "changed_files": 15,
+    "total_size": "37.5 KB",
     "type": "Full"
 }
