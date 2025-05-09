@@ -1,0 +1,17 @@
+{
+    "timestamp": "20250509_1723",
+    "backup_name": "Backup_20250509_1723_backup_demo",
+    "folders": {
+        "backup_demo": "/Users/anujsiwach/Desktop/backup_demo"
+    },
+    "options": {
+        "backup_system": false,
+        "encrypt": false,
+        "compress": false,
+        "incremental": false
+    },
+    "total_files": 7,
+    "changed_files": 1,
+    "total_size": "6.3 KB",
+    "type": "Full"
+}
