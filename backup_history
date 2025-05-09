@@ -1,2 +1,2 @@
-{"timestamp": "20250509_1652", "total_files": 0, "changed_files": 0, "total_size": "0.0 B", "type": "Full", "folders": {"backup_demo": "/Users/anujsiwach/Desktop/backup_demo", "system_config": "/etc"}, "backup_name": "Backup_20250509_1652_backup_demo"}
 {"timestamp": "20250509_1657", "total_files": 8, "changed_files": 2, "total_size": "25.2 KB", "type": "Full", "folders": {"backup_demo": "/Users/anujsiwach/Desktop/backup_demo", "system_config": "/etc"}, "backup_name": "Backup_20250509_1657_backup_demo"}
+{"timestamp": "20250509_1652", "total_files": 0, "changed_files": 0, "total_size": "0.0 B", "type": "Full", "folders": {"backup_demo": "/Users/anujsiwach/Desktop/backup_demo", "system_config": "/etc"}, "backup_name": "Backup_20250509_1652_backup_demo"}
