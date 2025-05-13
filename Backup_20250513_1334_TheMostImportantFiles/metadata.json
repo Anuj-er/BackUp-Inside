@@ -1,0 +1,18 @@
+{
+    "timestamp": "20250513_1334",
+    "backup_name": "Backup_20250513_1334_TheMostImportantFiles",
+    "folders": {
+        "TheMostImportantFiles": "/Users/anujsiwach/Desktop/TheMostImportantFiles",
+        "system_config": "/etc"
+    },
+    "options": {
+        "backup_system": true,
+        "encrypt": false,
+        "compress": true,
+        "incremental": false
+    },
+    "total_files": 2,
+    "changed_files": 2,
+    "total_size": "7.3 KB",
+    "type": "Full"
+}
